@@ -8,3 +8,7 @@ Download the brainvisa ova file:
 
 Run the script to export it as a docker image:
 `sudo ./Ova2Docker.sh brainvisa-5.1.0/brainvisa-5.1.0.ova`
+
+## Acknowledgement
+
+This research was supported by the EBRAINS research infrastructure, funded from the European Union’s Horizon 2020 Framework Programme for Research and Innovation under the Specific Grant Agreement No. 945539 (Human Brain Project SGA3).
